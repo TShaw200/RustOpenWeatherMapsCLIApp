@@ -1,8 +1,6 @@
 [package]
 name = "CLIRustWeatherAppTom"
 version = "0.1.0"
-edition = "2024"
-version = "0.1.0"
 edition = "2021"
 description = "Rust CLI project for Programming Language course"
 license = "MIT"
